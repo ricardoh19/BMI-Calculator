@@ -1,1 +1,1 @@
-Simple BMI Calculator
+Simple BMI Calculator built using JavaScript and CSS
